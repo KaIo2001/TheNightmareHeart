@@ -10,7 +10,14 @@ Left click -  fire gun
 spacebar - jump
 
 Jacob - Level Design
-Ioannias - Enemies and lights
+Ioannis - Enemies and lights
+
+All assets used for the game are 
+A. from the StarterContent and FirstPersonTemplate and 
+B. Enemy characters and animations are from Mixamo
+
+Characters: Crypto and Alien Soldier
+Animations: Rifle Idle, Walk with Rifle, Rifle Run and Firing Rifle
 
 Video: 
 
