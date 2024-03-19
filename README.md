@@ -19,7 +19,7 @@ B. Enemy characters and animations are from Mixamo
 Characters: Crypto and Alien Soldier
 Animations: Rifle Idle, Walk with Rifle, Rifle Run and Firing Rifle
 
-Video: 
+Video: https://youtu.be/lkfmJzcQvxA
 
 Source: https://github.com/KaIo2001/TheNightmareHeart
 
