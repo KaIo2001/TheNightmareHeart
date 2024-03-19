@@ -1,6 +1,8 @@
 # TheNightmareHeart
  This is a game for week 4 of Rapid Game Prototyping @ MMU
 
+Real Source of Game: https://github.com/TheShekel/Week-4
+
 Jacob Taylor - 23760050
 Ioannis Karantzis - 23660548
 
