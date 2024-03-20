@@ -2,7 +2,7 @@
  This is a game for week 4 of Rapid Game Prototyping @ MMU
 
 
-Real Source of Game: https://github.com/TheShekel/Week-4
+Real Source of Game: https://github.com/KaIo2001/Week-4-RGP
 Real and final Ver of the game: https://stummuac-my.sharepoint.com/:f:/g/personal/23660548_stu_mmu_ac_uk/EtqmDDHkk8NEhJdZoSLfCDABKtgvEbAuFbYprjbMQW7ZyA?e=Hh9TGc
 
 
@@ -26,6 +26,6 @@ Animations: Rifle Idle, Walk with Rifle, Rifle Run and Firing Rifle
 
 Video: https://youtu.be/lkfmJzcQvxA
 
-Source: https://github.com/KaIo2001/TheNightmareHeart
+Original (Broken) Source: https://github.com/KaIo2001/TheNightmareHeart
 
-Exe: https://stummuac-my.sharepoint.com/:f:/g/personal/23660548_stu_mmu_ac_uk/EuESiKBJAgtAkQU_7pDl4igBggTwovupMRlXQRZJ-fbXzg?e=xZfK9E
+Original (Broken) Exe: https://stummuac-my.sharepoint.com/:f:/g/personal/23660548_stu_mmu_ac_uk/EuESiKBJAgtAkQU_7pDl4igBggTwovupMRlXQRZJ-fbXzg?e=xZfK9E
